@@ -1,2 +1,2 @@
-# Realized Regularized Regressions
-MATLAB Code Example: Realized Regularized Regressions
+# R$^3$
+MATLAB Code Example: R$^3$
